@@ -29,7 +29,7 @@ if(x=="5"){xxx="/2018/07/the-benefits-of-insurance-to.html"}
 if(x=="6"){xxx="/2018/07/finding-very-best-insurance-rates.html"}
 if(x=="7"){xxx="/2018/07/how-to-select-right-insurance-plan.html"}
 if(x=="8"){xxx="/2018/07/daily-exercise-with-children.html"}
-if(x=="9"){xxx="2018/07/three-tips-to-help-keep-your-joints.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="9"){xxx="2018/07/three-tips-to-help-keep-your-joints.html"}a_to_ve[i].href="https://go-sl.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
